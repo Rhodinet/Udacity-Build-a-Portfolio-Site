@@ -1,0 +1,64 @@
+
+body {
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+}
+
+
+.text-thin {
+	font-weight: 100;
+}
+
+.text-secondtitle {
+	padding-left:2%;
+	color: rgb(95, 78, 172);
+	font-weight:400;
+	font-size: 38px;
+	margin-top: 1em;
+	padding-bottom: 10px;
+}
+
+.text-link {
+	color: #161115;
+	font-size: 21px;
+	padding: 1em;
+	font-weight: 200;
+}
+
+
+.title-super {
+	font-size: 60px
+
+}
+
+.description-project {
+	font-size: 38px;
+	font-weight: 400;
+	color: #4178df;
+}
+
+.subtitle {
+	font-weight: 300;
+	font-size: 22px;
+}
+
+/* images */
+.title-logo {
+	margin-top: 1.5em;
+}
+
+/* other elements */
+
+hr {
+    border: none;
+    height: 5px;
+    color: rgb(44, 187, 92); 
+    background-color: rgb(25, 172, 62); 
+    margin-top: 0.2em;
+    margin-bottom: 2.2em;
+}
+
+.footer {
+	border-top: 1px solid #bbb;
+	padding: 6px 0 20px;
+	text-align: center; }
